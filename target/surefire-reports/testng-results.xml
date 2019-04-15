@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7193" started-at="2019-04-15T06:26:42Z" finished-at="2019-04-15T06:26:49Z">
+  <suite name="Suite" duration-ms="8152" started-at="2019-04-15T06:38:31Z" finished-at="2019-04-15T06:38:39Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7193" started-at="2019-04-15T06:26:42Z" finished-at="2019-04-15T06:26:49Z">
+    <test name="Test" duration-ms="8152" started-at="2019-04-15T06:38:31Z" finished-at="2019-04-15T06:38:39Z">
       <class name="frameworklearning.SignInTest">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="initialize" is-config="true" duration-ms="6261" started-at="2019-04-15T06:26:42Z" finished-at="2019-04-15T06:26:48Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="initialize" is-config="true" duration-ms="7077" started-at="2019-04-15T06:38:31Z" finished-at="2019-04-15T06:38:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="login" duration-ms="435" started-at="2019-04-15T06:26:48Z" data-provider="getData" finished-at="2019-04-15T06:26:48Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="login" duration-ms="573" started-at="2019-04-15T06:38:38Z" data-provider="getData" finished-at="2019-04-15T06:38:39Z">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="login" duration-ms="289" started-at="2019-04-15T06:26:48Z" data-provider="getData" finished-at="2019-04-15T06:26:49Z">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="login" duration-ms="294" started-at="2019-04-15T06:38:39Z" data-provider="getData" finished-at="2019-04-15T06:38:39Z">
           <params>
             <param index="0">
               <value>
@@ -43,13 +43,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="closeDriver" is-config="true" duration-ms="197" started-at="2019-04-15T06:26:49Z" finished-at="2019-04-15T06:26:49Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:frameworklearning.SignInTest@2c767a52]" name="closeDriver" is-config="true" duration-ms="193" started-at="2019-04-15T06:38:39Z" finished-at="2019-04-15T06:38:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
       </class> <!-- frameworklearning.SignInTest -->
       <class name="frameworklearning.AppTest">
-        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:frameworklearning.AppTest@619713e5]" name="shouldAnswerWithTrue" duration-ms="0" started-at="2019-04-15T06:26:49Z" finished-at="2019-04-15T06:26:49Z">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:frameworklearning.AppTest@619713e5]" name="shouldAnswerWithTrue" duration-ms="0" started-at="2019-04-15T06:38:39Z" finished-at="2019-04-15T06:38:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
