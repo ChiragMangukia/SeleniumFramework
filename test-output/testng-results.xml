@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5717" started-at="2019-04-12T09:11:47Z" finished-at="2019-04-12T09:11:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5717" started-at="2019-04-12T09:11:47Z" finished-at="2019-04-12T09:11:53Z">
+      <class name="frameworklearning.SignInTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:frameworklearning.SignInTest@46d56d67]" name="initialize" is-config="true" duration-ms="3889" started-at="2019-04-12T09:11:47Z" finished-at="2019-04-12T09:11:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:frameworklearning.SignInTest@46d56d67]" name="login" duration-ms="694" started-at="2019-04-12T09:11:51Z" data-provider="getData" finished-at="2019-04-12T09:11:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SI004841]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cbm123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:frameworklearning.SignInTest@46d56d67]" name="login" duration-ms="826" started-at="2019-04-12T09:11:51Z" data-provider="getData" finished-at="2019-04-12T09:11:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SI004842]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cbm123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:frameworklearning.SignInTest@46d56d67]" name="closeDriver" is-config="true" duration-ms="294" started-at="2019-04-12T09:11:52Z" finished-at="2019-04-12T09:11:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- frameworklearning.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
