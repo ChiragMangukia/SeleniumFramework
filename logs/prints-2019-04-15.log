@@ -1,6 +1,6 @@
-11:52:16.490 [main] INFO  frameworklearning.SignInTest - Driver is initialized
-11:52:16.667 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/
-11:52:16.976 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/
-11:56:48.366 [main] INFO  frameworklearning.SignInTest - Driver is initialized
-11:56:48.534 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/
-11:56:48.853 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/
+12:47:11.222 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/
+12:52:48.517 [main] INFO  frameworklearning.SignInTest - Driver is initialized
+12:52:49.641 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/
+12:52:50.184 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/
+12:53:12.409 [main] INFO  frameworklearning.SignInTest - Driver is initialized
+12:53:12.984 [main] INFO  frameworklearning.SignInTest - Navigated to http://172.24.1.141/FQMS4/

@@ -3,11 +3,13 @@
 <suite name="Suite">
 	<listeners>
 		<listener class-name="frameworklearning.Listeners"></listener>
-		<listener class-name="frameworklearning.resources.ExtentReporterNG"></listener>
+		<listener
+			class-name="frameworklearning.resources.ExtentReporterNG"></listener>
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="frameworklearning.SignInTest" />
+
 			<class name="frameworklearning.AppTest" />
 		</classes>
 	</test> <!-- Test -->

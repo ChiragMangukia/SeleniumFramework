@@ -23,7 +23,7 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
   
 public class ExtentReporterNG implements IReporter {
     
-    private static final String OUTPUT_FOLDER = "C:/Automation/ExtentReports";
+    private static final String OUTPUT_FOLDER = "C:/Automation/ExtentReports/";
     private static final String FILE_NAME = "Extent.html";
     
     private ExtentReports extent;
@@ -52,8 +52,8 @@ public class ExtentReporterNG implements IReporter {
     
     private void init() {
         ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(OUTPUT_FOLDER + FILE_NAME);
-        htmlReporter.config().setDocumentTitle("ExtentReports - Created by TestNG Listener");
-        htmlReporter.config().setReportName("ExtentReports - Created by TestNG Listener");
+        htmlReporter.config().setDocumentTitle("Chirag Mangukia - SeleniumFramework Automation Project");
+        htmlReporter.config().setReportName("Chirag - SeleniumFramework");
         htmlReporter.config().setTestViewChartLocation(ChartLocation.BOTTOM);
         htmlReporter.config().setTheme(Theme.STANDARD);
         
