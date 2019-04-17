@@ -1,3 +1,6 @@
-/log/
+/logs/
 /target/
+target/surefire-reports/Suite
+target/surefire-reports
+target/surefire-reports/junitreports/
 /test-output/
